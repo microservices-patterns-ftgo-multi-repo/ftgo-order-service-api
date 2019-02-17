@@ -1,0 +1,2 @@
+  include "ftgo-order-service-api"
+  include "ftgo-order-service-contracts"
